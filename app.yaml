@@ -9,5 +9,5 @@ handlers:
   upload: static/favicon.ico
 - url: /static
   static_dir: static
-- url: .*
+- url: https://webpy.org/cookbook/helloworld
   script: hello.py
